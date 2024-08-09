@@ -1,6 +1,6 @@
 Pong Game:
 
-This is a classic Pong game built using Python. The game features a simple yet engaging interface where two players can compete against each other.
+This is a classic Pong game built using Python and Tkinter. The game features a simple yet engaging interface where two players can compete against each other.
 
 Features:
 - Classic Pong Gameplay: Play the timeless Pong game with basic paddle and ball mechanics.
