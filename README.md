@@ -4,6 +4,8 @@
 
 Pong is a classic game built using Python and Tkinter. In this game, two players control paddles on opposite sides of the screen. The objective is to hit the ball with your paddle to prevent it from passing your side. If the ball passes a player's paddle, the opposing player scores a point. The game continues until one player reaches the winning score.
 
+[!Watch this video](https://github.com/user-attachments/assets/fafaf3e0-c27c-4a88-ae1c-0935157f197e)
+
 ## Features
 
 - **Classic Pong Gameplay**: Play the timeless Pong game with basic paddle and ball mechanics.
